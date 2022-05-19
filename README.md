@@ -2,6 +2,6 @@
 Practicing C simple but logical programs.
 
 
-<u><h6>Pointer</h6></u>
+<h5>Pointer</h5>
 <b>*ptr++</b> - Increment the pointer not value <br/>
 <b>++*ptr</b> - Increment the value not pointer
